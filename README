@@ -1,0 +1,6 @@
+#### Lean Version of my personal Vim config ####
+
+# Installation, symlinks & submodules
+git clone git://github.com/s12r/dotvim-light.git ~/.vim
+ln -s ~/.vim/vimrc ~/.vimrc
+
